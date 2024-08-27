@@ -1,3 +1,5 @@
 # Wordpress Projects
 
-[Clapnclick.com](https://clapnclick.com)
+[Clapnclick.com]
+[Aylaskinclinics.com]
+[manchukondajewellers.com]
