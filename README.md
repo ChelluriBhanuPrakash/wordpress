@@ -2,7 +2,7 @@
 
 [Clapnclick.com](https://clapnclick.com/) <br>
 [vhealthcare.io](https://vhealthcare.io/) <br>
-[https://mayurtuff.com/](https://mayurtuff.com/) <br>
+[mayurtuff.com/](https://mayurtuff.com/) <br>
 [Aylaskinclinics.com](https://aylaskinclinics.com/) <br>
 [manchukondajewellers.com](https://manchukondajewellers.com/) <br>
 [celersystems.com](https://www.celersystems.com/) <br>
