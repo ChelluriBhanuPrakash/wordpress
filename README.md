@@ -1,3 +1,3 @@
 # Wordpress Projects
 
-[[Clapnclick.com]https://clapnclick.com/wp-admin
+[Clapnclick.com]https://clapnclick.com/
