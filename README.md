@@ -1,5 +1,3 @@
 # Wordpress Projects
 
-[Clapnclick.com]
-[Aylaskinclinics.com]
-[manchukondajewellers.com]
+[[Clapnclick.com]https://clapnclick.com/wp-admin
